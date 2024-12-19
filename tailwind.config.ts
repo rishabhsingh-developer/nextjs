@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        t: ["VT323", "sans-serif"], // Use the Roboto font
+      },
     },
   },
   plugins: [],
